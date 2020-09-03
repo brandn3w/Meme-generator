@@ -50,7 +50,6 @@
   "bugs": {
     "url": "https://github.com/brandn3w/Meme-generator/issues"
   },
-  "homepage": "https://github.com/brandn3w/Meme-generator#readme",
   "browserslist": {
     "production": [
       ">0.2%",
@@ -62,5 +61,10 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.1.0"
+  
+
   }
 }
